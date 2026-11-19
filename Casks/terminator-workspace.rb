@@ -2,10 +2,10 @@
 # https://github.com/aiman2039/terminator by the release workflow (or
 # `cargo xtask package-manifests`). Edit the template, not this file.
 cask "terminator-workspace" do
-  version "0.183.0"
-  sha256 "e66871b123784c6f6601224dd27ab20e25c262254ec9559373221962db90fb8c"
+  version "0.190.0"
+  sha256 "45ccab5db2609328ead15dde423409fc3d2d101e60ee3e84c82a77e6a7dbe98a"
 
-  url "https://github.com/aiman2039/terminator/releases/download/v0.183.0/terminator-v0.183.0-macos.dmg"
+  url "https://github.com/aiman2039/terminator/releases/download/v0.190.0/terminator-v0.190.0-macos.dmg"
   name "Terminator"
   desc "Native terminal workspace with persistent sessions and agent hooks"
   homepage "https://github.com/aiman2039/terminator"
